@@ -1,2 +1,2 @@
 # IMFDB-image-scraper
-To scrap images from IMFDB
+To scrap images from IMFDB website using python 
