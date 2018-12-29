@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
-import sys
 import re
 from urllib.request import *
+import urllib.request
 def get_images(url):
     html = urlopen(url)
     bs = BeautifulSoup(html, 'html.parser')
